@@ -2,7 +2,6 @@ import os
 from embedchain import App
 
 # Set Hugging Face token
-os.environ["HUGGINGFACE_ACCESS_TOKEN"] = "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"
 
 # Configuration for Hugging Face models
 '''config = {
